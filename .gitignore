@@ -1,2 +1,6 @@
 # Vagrant
 Vagrant/.vagrant/*
+
+# GitHub
+id_rsa
+id_rsa.pub
